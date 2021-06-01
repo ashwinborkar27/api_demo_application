@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2021-05-18
+  time: 2021-05-18 16:25:35
+  description: MyText
+  patient: one
+  docter: one
+
+two:
+  date: 2021-05-18
+  time: 2021-05-18 16:25:35
+  description: MyText
+  patient: two
+  docter: two
